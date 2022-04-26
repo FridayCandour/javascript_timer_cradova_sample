@@ -1,0 +1,19 @@
+{
+  "name": "Digital Timer",
+  "version": "1.0.0",
+  "description": "Digital Timer",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2"
+  },
+  "scripts": {
+    "start": "npx serve"
+  },
+  "author": "Friday Candour",
+  "license": "MIT"
+}
